@@ -4,9 +4,9 @@
 
 ### Ressources
 
-* Blabla
-* Blablabla
-* Blababla
+* Un formateur expérimenté **
+* Un stagiaire curieux et motivé
+* Un ordinateur emprunté (Qui vaut bien moins que le chèque de caution)
 
 ### Objectif
 
@@ -15,7 +15,8 @@
 
 ## Présentation du codeur
 
-Hello ! Je suis McGiver (Informatique) Je transforme tout en tout :-)
+Hello ! Je suis McGiver (Informatique).
+Je vais être bref. J'adore trouver des solutions.
 
 ### Expérience
 
@@ -32,7 +33,7 @@ Upload du projet initial
 
 ***
 
-
+** Constatation faite au feeling :-)
 
 
 

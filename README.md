@@ -26,14 +26,22 @@ Je vais être bref. J'adore trouver des solutions.
 |Admin Sys|IFA|2014-2020|
 |Admin Sys| ORPI|2010-2020|
 
+***
+
 ## Changelog
 
 ### First commit
-Upload du projet initial
+Upload du projet 
+
+### Added poneys
+Added poneys.txt in branch dev
+
 
 ***
 
 ** Constatation faite au feeling :-)
+
+
 
 
 

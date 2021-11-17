@@ -24,7 +24,7 @@ Je vais être bref. J'adore trouver des solutions.
 |----|-----|-----|
 |Consultant| Congo| 2020-2021|
 |Admin Sys|IFA|2014-2020|
-|Admin Sys| ORPI|2010-2020|
+|Admin Sys| ORPI|2010-2014|
 
 ***
 
